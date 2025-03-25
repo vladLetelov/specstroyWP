@@ -1,0 +1,19 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+/wp-content/cache/
+
+# Конфигурация
+wp-config.php
+*.sql
+*.zip
+
+# Системные файлы
+.DS_Store
+.htaccess
+*.log
+
+# IDE
+.idea/
+.vscode/
